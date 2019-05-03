@@ -1,6 +1,6 @@
 {
   "name": "sevn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight module to manipulate a 7-Segment-Display with Raspberry Pi ",
   "main": "index.js",
   "scripts": {
@@ -20,17 +20,17 @@
     "url": "https://github.com/MelvinIdema/Sevn/issues"
   },
   "engines": {
-  "node": ">=8.16.0"
+    "node": ">=8.16.0"
   },
   "keywords": [
-  "gpio",
-  "7-segment-display",
-  "segment",
-  "display",
-  "seven",
-  "raspberry",
-  "raspi",
-  "rpi",
-  "pi"
+    "gpio",
+    "7-segment-display",
+    "segment",
+    "display",
+    "seven",
+    "raspberry",
+    "raspi",
+    "rpi",
+    "pi"
   ]
 }
