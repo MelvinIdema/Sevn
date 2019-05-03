@@ -1,0 +1,14 @@
+{
+  "name": "sevn",
+  "version": "1.0.0",
+  "description": "A lightweight module to manipulate a 7-Segment-Display with Raspberry Pi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melvin Idema",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^4.1.1"
+  }
+}
