@@ -10,5 +10,27 @@
   "license": "ISC",
   "dependencies": {
     "onoff": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelvinIdema/Sevn.git"
+  },
+  "homepage": "https://github.com/MelvinIdema/Sevn",
+  "bugs": {
+    "url": "https://github.com/MelvinIdema/Sevn/issues"
+  },
+  "engines": {
+  "node": ">=8.16.0"
+  },
+  "keywords": [
+  "gpio",
+  "7-segment-display",
+  "segment",
+  "display",
+  "seven",
+  "raspberry",
+  "raspi",
+  "rpi",
+  "pi",
+  ],
 }
