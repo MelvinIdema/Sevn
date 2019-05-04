@@ -10,11 +10,11 @@ A lightweight module to manipulate a 7-Segment-Display with Raspberry Pi.
  * [API](#api)
  * [Additional Information](#additional-information)
 
- ## Changelog
+## Changelog
 
- ### Sevn v1.1.0
+### Sevn v1.1.0
 
- Sevn v1.1.0 adds support for the alphabetical characters: a, b, c, d, e, f, h, i, j, l, n, o, p, q, r, s, u, y and z.
+Sevn v1.1.0 adds support for the alphabetical characters: a, b, c, d, e, f, h, i, j, l, n, o, p, q, r, s, u, y and z.
 
 ## Installation
 
