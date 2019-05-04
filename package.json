@@ -1,6 +1,6 @@
 {
   "name": "sevn",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A lightweight module to manipulate a 7-Segment-Display with Raspberry Pi ",
   "main": "index.js",
   "scripts": {
